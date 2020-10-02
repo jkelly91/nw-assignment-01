@@ -25,7 +25,7 @@ Acceptance Criteria
 
 1. Follow this LINK
 
-https://jkelly91.github.io/nw-assignment-01/
+    https://jkelly91.github.io/nw-assignment-01/
 
 2. Navigate the page using the navigation bar at the top right hand corner!
 
