@@ -24,8 +24,8 @@ Acceptance Criteria
 
 Navigate the page using the navigation bar at the top right hand corner!
 
-![Navigation SS](assets\images\navigation-ss.png)
-Format: ![Example navigating the webpage](https://github.com/jkelly91/nw-assignment-01/blob/main/assets/images/navigation-ss.png?raw=true)
+![](assets\images\navigation-ss.png)
+![Example navigating the webpage](https://github.com/jkelly91/nw-assignment-01/blob/main/assets/images/navigation-ss.png?raw=true)
 
 
 
