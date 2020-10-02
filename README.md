@@ -5,6 +5,7 @@
 A web based structure that brings awareness to Search Engine Optimization.
 Highlights the benefits and strategies of SEO.
 
+
 Languages used
 
 - HTML
@@ -30,6 +31,14 @@ Navigate the page using the navigation bar at the top right hand corner!
 
 
 ## Credits
+
+
+Git Hub
+Git Bash 
+Microsoft visual studio code 
+Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Horiseon Social Solution Services, Inc.
+
 
 
 
