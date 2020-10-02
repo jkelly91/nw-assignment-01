@@ -23,7 +23,11 @@ Acceptance Criteria
 
 ## Usage 
 
-Navigate the page using the navigation bar at the top right hand corner!
+1. Follow this LINK
+
+https://jkelly91.github.io/nw-assignment-01/
+
+2. Navigate the page using the navigation bar at the top right hand corner!
 
 ![](assets\images\navigation-ss.png)
 ![Example navigating the webpage](https://github.com/jkelly91/nw-assignment-01/blob/main/assets/images/navigation-ss.png?raw=true)
